@@ -14,4 +14,6 @@ I'm enrolled in an IBM course on Coursera called "[IBM Full Stack Software Devel
 5- [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/certificate/7GZQVUHASSPE)\
 ----[Badge](https://www.credly.com/badges/17354792-fad7-401e-896e-a7ef1379c0ed/public_url)\
 6- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/MWCJ3HNW68T9)\
-----[Badge](https://www.credly.com/earner/earned/badge/bb9e6e0d-1d0c-400e-8132-af3d6764753c)
+----[Badge](https://www.credly.com/earner/earned/badge/bb9e6e0d-1d0c-400e-8132-af3d6764753c)\
+7- [Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/certificate/HLFWW7KSLFT9)\
+----[Badge](https://www.credly.com/badges/f71d90d3-8b9a-4133-8fe1-5ee143b79531/public_url)
