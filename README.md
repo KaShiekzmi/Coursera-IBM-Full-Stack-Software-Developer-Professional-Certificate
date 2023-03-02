@@ -16,4 +16,6 @@ I'm enrolled in an IBM course on Coursera called "[IBM Full Stack Software Devel
 6- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/MWCJ3HNW68T9)\
 ----[Badge](https://www.credly.com/earner/earned/badge/bb9e6e0d-1d0c-400e-8132-af3d6764753c)\
 7- [Python Project for AI & Application Development](https://www.coursera.org/account/accomplishments/certificate/HLFWW7KSLFT9)\
-----[Badge](https://www.credly.com/badges/f71d90d3-8b9a-4133-8fe1-5ee143b79531/public_url)
+----[Badge](https://www.credly.com/badges/f71d90d3-8b9a-4133-8fe1-5ee143b79531/public_url)\
+8- [Developing Applications with SQL, Databases, and Django](https://www.coursera.org/account/accomplishments/certificate/GDNYC3M6NMXQ)\
+----[Badge](https://www.credly.com/earner/earned/badge/e2ec3c5f-0f84-4f52-bc4a-01e5a326ab48)
