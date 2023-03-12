@@ -1,6 +1,9 @@
 # IBM Full Stack Software Developer Professional Certificate
 I'm enrolled in an IBM course on Coursera called "[IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)." There are 12 sub-courses in this professional course. I created this repository so that I may share my course certificates & asignments.
 
+![Coursera RTBCMVFNEKJU_page-0001](https://user-images.githubusercontent.com/114513868/224536926-b1c7ae2a-2bb4-43a4-8d05-8925a3951527.jpg)
+
+
 # Certificates:
 
 1- [Introduction to Cloud Computing](https://www.coursera.org/account/accomplishments/certificate/DN6HQN97NPFP)\
@@ -24,4 +27,8 @@ I'm enrolled in an IBM course on Coursera called "[IBM Full Stack Software Devel
 10-[Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/certificate/SRUU9EMQQUKH)\
 ----[Badge](https://www.credly.com/badges/58d40b71-a501-4012-9a7d-32b07558167c/public_url)\
 11-[Full Stack Cloud Development Capstone Project](https://www.coursera.org/account/accomplishments/certificate/6BF8CPKFCEEX)\
-----[Badge](https://www.credly.com/badges/2991961c-8f9c-4397-98c0-f1de82f00773/public_url)
+----[Badge](https://www.credly.com/badges/2991961c-8f9c-4397-98c0-f1de82f00773/public_url)\
+12-[Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/certificate/BNC3GKQQCDE4)
+
+# Specialization Certificate
+[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RTBCMVFNEKJU)
